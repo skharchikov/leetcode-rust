@@ -24,11 +24,13 @@ src/
 └── ...
 ```
 
-## Progress: Blind 75 (0/75)
+## Progress: Blind 75
+
+`▓░░░░░░░░░░░░░░░░░░░ 1/75 (1%)`
 
 ### Array
 
-- [ ] Two Sum
+- [x] [Two Sum](https://leetcode.com/problems/two-sum)
 - [ ] Best Time to Buy and Sell Stock
 - [ ] Contains Duplicate
 - [ ] Product of Array Except Self
