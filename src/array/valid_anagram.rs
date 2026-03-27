@@ -21,21 +21,12 @@
 /// # Follow up
 /// What if the inputs contain Unicode characters? How would you adapt your solution to such a case?
 pub fn is_anagram(s: String, t: String) -> bool {
-    let letters_s = s
-        .chars()
-        .fold(std::collections::HashMap::new(), |mut acc, c| {
-            acc.entry(c).and_modify(|count| *count += 1).or_insert(1);
-            acc
-        });
+    let mut counts = std::collections::HashMap::new();
 
-    let letters_t = t
-        .chars()
-        .fold(std::collections::HashMap::new(), |mut acc, c| {
-            acc.entry(c).and_modify(|count| *count += 1).or_insert(1);
-            acc
-        });
+    s.chars().for_each(|c| *counts.entry(c).or_insert(0) += 1);
+    t.chars().for_each(|c| *counts.entry(c).or_insert(0) -= 1);
 
-    letters_s == letters_t
+    counts.values().all(|&v| v == 0)
 }
 
 #[cfg(test)]
