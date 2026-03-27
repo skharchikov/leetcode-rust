@@ -26,7 +26,7 @@ src/
 
 ## Progress: Blind 75
 
-`▓░░░░░░░░░░░░░░░░░░░ 2/75 (3%)`
+`▓░░░░░░░░░░░░░░░░░░░ 3/75 (4%)`
 
 ### Array
 
@@ -103,7 +103,7 @@ src/
 - [ ] Longest Substring Without Repeating Characters
 - [ ] Longest Repeating Character Replacement
 - [ ] Minimum Window Substring
-- [ ] Valid Anagram
+- [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram)
 - [ ] Group Anagrams
 - [ ] Valid Parentheses
 - [ ] Valid Palindrome
