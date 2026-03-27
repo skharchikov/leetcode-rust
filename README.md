@@ -26,13 +26,13 @@ src/
 
 ## Progress: Blind 75
 
-`▓░░░░░░░░░░░░░░░░░░░ 1/75 (1%)`
+`▓░░░░░░░░░░░░░░░░░░░ 2/75 (3%)`
 
 ### Array
 
 - [x] [Two Sum](https://leetcode.com/problems/two-sum)
 - [ ] Best Time to Buy and Sell Stock
-- [ ] Contains Duplicate
+- [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate)
 - [ ] Product of Array Except Self
 - [ ] Maximum Subarray
 - [ ] Maximum Product Subarray
