@@ -143,6 +143,8 @@ Solutions outside the Blind 75 list — classic algorithms, warm-ups, or topic d
 ### Binary Search
 
 - [x] Binary Search (recursive) — `src/binary/binary_search.rs`
+- [x] Binary Search (iterative) — `src/binary/binary_search.rs`
+- [x] Find the First True in a Sorted Boolean Array — `src/binary/first_true_in_sorted_boolean_array.rs`
 
 ## Usage
 
