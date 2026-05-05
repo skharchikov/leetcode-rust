@@ -20,7 +20,9 @@ src/
 ├── tree/
 ├── graph/
 ├── dynamic_programming/
-├── binary_search/
+├── binary/
+│   ├── mod.rs
+│   └── binary_search.rs
 └── ...
 ```
 
@@ -133,6 +135,14 @@ src/
 - [ ] Merge K Sorted Lists
 - [ ] Top K Frequent Elements
 - [ ] Find Median from Data Stream
+
+## Extras (not Blind 75)
+
+Solutions outside the Blind 75 list — classic algorithms, warm-ups, or topic detours.
+
+### Binary Search
+
+- [x] Binary Search (recursive) — `src/binary/binary_search.rs`
 
 ## Usage
 

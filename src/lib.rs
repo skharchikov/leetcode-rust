@@ -1,2 +1,4 @@
-#[allow(dead_code)]
-mod array;
+#![allow(dead_code)]
+
+pub mod array;
+pub mod binary;
