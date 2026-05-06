@@ -148,6 +148,7 @@ Solutions outside the Blind 75 list — classic algorithms, warm-ups, or topic d
 - [x] First Element Not Smaller Than Target — `src/binary/first_element_not_smaller_than_target.rs`
 - [x] Find Element in Sorted Array with Duplicates — `src/binary/find_element_in_sorted_array_with_duplicates.rs`
 - [x] Square Root Estimation — `src/binary/square_root_estimation.rs`
+- [x] [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) — `src/binary/peak_index_in_mountain_array.rs`
 
 ## Usage
 
