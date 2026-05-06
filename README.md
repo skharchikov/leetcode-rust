@@ -28,7 +28,7 @@ src/
 
 ## Progress: Blind 75
 
-`▓░░░░░░░░░░░░░░░░░░░ 3/75 (4%)`
+`▓░░░░░░░░░░░░░░░░░░░ 4/75 (5%)`
 
 ### Array
 
@@ -38,7 +38,7 @@ src/
 - [ ] Product of Array Except Self
 - [ ] Maximum Subarray
 - [ ] Maximum Product Subarray
-- [ ] Find Minimum in Rotated Sorted Array
+- [x] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)
 - [ ] Search in Rotated Sorted Array
 - [ ] 3Sum
 - [ ] Container With Most Water
